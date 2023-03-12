@@ -23,7 +23,7 @@ learning something new every day! I'm a naturally inquisitive person with a pass
 * Handlebars.js
 * Jest
 
-## Connectn🤝
+## Connect 🤝
 
 * LinkedIn: https://www.linkedin.com/in/adriana-alcantara-96b9b4160/
 * Portfolio: https://audrey-505.github.io/Portfolio-Site/
